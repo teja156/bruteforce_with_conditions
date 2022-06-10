@@ -56,14 +56,3 @@ if __name__ == "__main__":
 			print(f"\n\nFOUND PASSWORD: {i}")
 			print(f"TOTAL TIME ELAPSED: {time_elapsed}")
 			break
-
-
-
-
-
-
-
-
-
-
-
